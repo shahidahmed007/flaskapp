@@ -1,3 +1,5 @@
+#This is a main file
+
 from website import create_app
 
 app = create_app()
